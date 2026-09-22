@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "José Ignacio Márquez-Corro"
+title                    : "Manuel Jesús García Pérez - 夏玛诺"
 title_separator          : "-"
-name                     : &name "José Ignacio Márquez-Corro"
-description              : &description "Postdoctoral Fellow"
-url                      : https://jimarcor.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Manuel Jesús García Pérez - 夏玛诺"
+description              : &description "Doctoral Lecturer"
+url                      : https://mjgarciaperez.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "jimarcor/jimarcor.github.io"
+repository               : "mjgarciaperez/mjgarciaperez.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
