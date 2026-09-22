@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Manuel Jesús García Pérez - 夏玛诺"
+title                    : "Manuel J. García-Pérez - 夏玛诺"
 title_separator          : "-"
-name                     : &name "Manuel Jesús García Pérez - 夏玛诺"
+name                     : &name "Manuel J. García-Pérez - 夏玛诺"
 description              : &description "Doctoral Lecturer"
 url                      : https://mjgarciaperez.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -85,17 +85,18 @@ analytics:
 # and add the icon as specified in https://jpswalsh.github.io/academicons/
 # and add it here with the same name
 author:
-  name             : "José Ignacio Márquez-Corro"
-  avatar           : "profile.png"
-  bio              : "Postdoctoral Researcher"
-  employer         : "Univ. Pablo de Olavide"
-  location         : "Seville (Spain)"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/search/all/?term=Márquez-Corro"
-  orcid            : "https://orcid.org/0000-0003-4277-2933"
-  googlescholar    : "https://scholar.google.es/citations?hl=en&user=OzjPbWEAAAAJ&view_op=list_works&sortby=pubdate"
-  email            : "jimarcorr@gmail.com"
-  researchgate     :  "https://www.researchgate.net/profile/Jose-Marquez-Corro"
-  bionomia: "https://bionomia.net/0000-0003-4277-2933"
+  name             : "Manuel J. García-Pérez - 夏玛诺"
+  avatar           : "profile.jpg.jpg"
+  bio              : "Researcher - Doctoral Lecturer"
+  employer         : "Institute for Advanced Study in History of Science & Shaanxi Provincial Key Laboratory of Cultural Heritage and Digital Humanities, Northwest University 西北大学"
+  location         : "Xi'an 西安, 710127, China 中国"
+  pubmed           : 
+  orcid            : "https://orcid.org/0000-0001-6639-0169"
+  googlescholar    : "https://scholar.google.es/citations?user=nw_sQlgAAAAJ&hl=es"
+  email            : "manueljgarciaperez@gmail.com"
+  researchgate     :  "https://www.researchgate.net/profile/Manuel-Garcia-Perez"
+  academiaedu      :  "https://northwestu.academia.edu/ManuelJGarc%C3%ADaP%C3%A9rez"
+  bionomia: 
   uri              :
   bitbucket        :
   codepen          :
@@ -103,20 +104,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jimarcor"
+  github           : "mjgarciaperez"
   gitlab           :
   google_plus      :
   keybase          :
-  inaturalist      : "https://www.inaturalist.org/people/jimarcor"
-  instagram        : "jimarcorr"
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  inaturalist      : 
+  instagram        : "manu.garcia.perez"
+  impactstory      : 
   lastfm           :
-  linkedin         : "jimarcor"
+  linkedin         : 
   pinterest        :
-  publons  : "https://www.webofscience.com/wos/author/record/188891"
-  scopus : "https://www.scopus.com/authid/detail.uri?authorId=57191070282"
+  publons  : 
+  scopus : 
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          :
@@ -124,8 +125,8 @@ author:
   weibo            :
   xing             :
   youtube          :
-  wikidata        : Q36594590
-  bluesky          : "jimarcor.bsky.social"
+  wikidata        : 
+  bluesky          : 
 
 
 # Reading Files
